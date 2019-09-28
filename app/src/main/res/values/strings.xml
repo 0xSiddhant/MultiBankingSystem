@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MultiBanking</string>
+    <string-array name="bankname">
+        <item>SBI</item>
+        <item>HDFC</item>
+        <item>PNB</item>
+        <item>AXIS</item>
+    </string-array>
+
+    <string-array name="loginselector">
+        <item>Admin</item>
+        <item>Employee</item>
+        <item>Customer</item>
+    </string-array>
+
+    <string-array name="banktype">
+        <item>Saving</item>
+        <item>Current</item>
+    </string-array>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
